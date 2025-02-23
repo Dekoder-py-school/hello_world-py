@@ -1,0 +1,8 @@
+= Hello
+
+My hello world python script
+
+[,python]
+----
+print('Hello, world!')
+----
